@@ -11,6 +11,7 @@ Key Features:
 
 📊 Admin Dashboard – View all tables, track statistics, and manage orders efficiently.
 
+
 ![Kafic1](https://github.com/user-attachments/assets/54d0cc11-e481-4c02-b92a-6cec955751c2)
 ![Kafic2](https://github.com/user-attachments/assets/1b815d53-4c90-4adb-8000-6dc6e75006c1)
 

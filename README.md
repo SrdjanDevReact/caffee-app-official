@@ -1,36 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Caffee App ☕
+Caffee App is a modern ordering system for cafés, allowing customers to place orders via their mobile devices. Orders are processed in real-time using Socket.IO, ensuring seamless communication between customers, waiters, and administrators.
 
-## Getting Started
+Key Features:
+📱 Mobile Ordering – Customers can place orders directly from their phones.
+⚡ Real-Time Notifications – Waiters instantly receive new order notifications.
+✅ Order Status Updates – Customers get notified when their order is accepted and being prepared.
+📊 Admin Dashboard – View all tables, track statistics, and manage orders efficiently.
 
-First, run the development server:
+![Kafic1](https://github.com/user-attachments/assets/54d0cc11-e481-4c02-b92a-6cec955751c2)
+![Kafic2](https://github.com/user-attachments/assets/1b815d53-4c90-4adb-8000-6dc6e75006c1)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This app improves efficiency, reduces wait times, and enhances the customer experience in any café or restaurant.

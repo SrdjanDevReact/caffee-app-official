@@ -13,6 +13,9 @@ Key Features:
 
 
 ![Kafic1](https://github.com/user-attachments/assets/54d0cc11-e481-4c02-b92a-6cec955751c2)
+
+-Ordering process looks like:
+
 ![Kafic2](https://github.com/user-attachments/assets/1b815d53-4c90-4adb-8000-6dc6e75006c1)
 
 This app improves efficiency, reduces wait times, and enhances the customer experience in any café or restaurant.
